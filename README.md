@@ -21,7 +21,7 @@ want to know the source code please click [here.](https://github.com/qiangw21/pl
 ### Mouse operation
 - Change the labeled box  
 The left mouse button can change the selected label box. Right click to deselect.  
-![Image text](./docs/select_bbox.png)
+![Image text](./docs/select-bbox.png)
 - The mouse wheel scale the image. Right mouse button to move the image.
 ### Save type
 - .csv  
