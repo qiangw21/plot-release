@@ -1,6 +1,6 @@
 # Plotting software
 ## Introduce
-  the softtward of label picture boxes, supported image type including png、jpg、jpeg、dcm. This is compiled software,
+  The softward of label picture boxes, supported image type including png、jpg、jpeg、dcm. This is compiled software,
 want to know the source code please click [here.](https://github.com/qiangw21/plot)
 
 ---
