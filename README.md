@@ -21,7 +21,7 @@ want to know the source code please click [here.](https://github.com/qiangw21/pl
 ### Mouse operation
 - Change the box's size  
 Select the box, and the left mouse button drag the border to resize. Right click to deselect.  
-![Image text](./docs/select_bbox.png)
+![Image text](./docs/select-bbox.png)
 - The mouse wheel scale the image. Right mouse button to move the image.
 - Change the box's label  
 Select the Box, and then choice the label of labellists than you want to change.
