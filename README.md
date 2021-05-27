@@ -19,9 +19,15 @@ want to know the source code please click [here.](https://github.com/qiangw21/pl
 - delete: delete checkbox
 - ctrl+0: restore image size
 ### Mouse operation
+<<<<<<< HEAD
 - Change the box's size  
 Select the box, and the left mouse button drag the border to resize. Right click to deselect.  
 ![Image text](./docs/select_bbox.png)
+=======
+- Change the labeled box  
+The left mouse button can change the selected label box. Right click to deselect.  
+![Image text](./docs/select-bbox.png)
+>>>>>>> 65d33a31d68c7592ff7c2a25c2cd45c75bc777d7
 - The mouse wheel scale the image. Right mouse button to move the image.
 - Change the box's label  
 Select the Box, and then choice the label of labellists than you want to change.
